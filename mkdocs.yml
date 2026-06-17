@@ -1,4 +1,6 @@
 site_name: PyConZA Documentation
 nav:
   - Home: index.md
-  - Communication: communication.md
+  - Communication:
+      - Overview: communication.md
+      - Plugging into Communities: communication/plugging-into-communities.md
