@@ -1,0 +1,4 @@
+site_name: PyConZA Documentation
+nav:
+  - Home: index.md
+  - Communication: communication.md
